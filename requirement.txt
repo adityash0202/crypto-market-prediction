@@ -1,0 +1,5 @@
+twint
+textblob
+pandas
+numpy
+basic tableau knowledge
